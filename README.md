@@ -1,2 +1,2 @@
 # Polinomio.cpp
-Polinomio en C++
+Polinomio *(sumativo)* en C++
